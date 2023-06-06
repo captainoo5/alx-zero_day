@@ -1,1 +1,1 @@
-My first rasdme
+Git directory
